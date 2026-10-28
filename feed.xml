@@ -3,7 +3,7 @@
     <title>Budapest</title>
     <link href="https://budapestradar.hu/feed.xml" rel="self" />
     <link href="https://budapestradar.hu" />
-    <updated>2026-10-28T11:40:36+01:00</updated>
+    <updated>2026-10-28T12:01:05+01:00</updated>
     <author>
         <name>dm</name>
     </author>
@@ -40,7 +40,7 @@
 <p class="br-vnzh-chooser__title">Какая ситуация ближе всего к вашей?</p>
 <div class="br-vnzh-options" role="group" aria-label="Варианты основания"><button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Работа в Венгрии" data-copy="Первым обычно проверяют National Card или специальную категорию для квалифицированной работы." data-target="br-vnzh-work">Работа</button> <button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Собственный бизнес" data-copy="Для самостоятельной деятельности или управления компанией проверяют guest self-employment." data-target="br-vnzh-business">Бизнес</button> <button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Удалённая работа" data-copy="White Card подходит для работы на иностранную компанию без венгерской занятости." data-target="br-vnzh-white-card">Удалённая работа</button> <button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Переезд к семье" data-copy="Возможность family reunification зависит от статуса принимающего члена семьи." data-target="br-vnzh-family">Семья</button> <button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Учёба" data-copy="Студенческий ВНЖ связан с очной программой и имеет отдельные правила работы и продления." data-target="br-vnzh-study">Учёба</button> <button class="br-vnzh-option" type="button" aria-pressed="false" data-title="Крупная инвестиция" data-copy="Guest investor применяется только к установленным законом инвестиционным формам." data-target="br-vnzh-investor">Инвестиции</button></div>
 <div class="br-vnzh-result" aria-live="polite"><strong>Выберите вариант выше</strong>
-<p>Здесь появится краткая подсказка и ссылка на нужный раздел.</p>
+<p>Выберите нужный раздел</p>
 <a href="#br-vnzh-process">Сначала посмотреть общий порядок подачи</a></div>
 </section>
 <section id="br-vnzh-process" class="br-vnzh-section">
@@ -138,7 +138,7 @@
 <p>Guest investor предназначен для инвестиций, признанных представляющими национальный экономический интерес Венгрии. В 2026 году предусмотрены два основных варианта:</p>
 <ul class="br-vnzh-checklist">
 <li>инвестиционные паи на сумму не менее 250 000 евро подходящего фонда недвижимости;</li>
-<li>безвозвратное пожертвование не менее 1 000 000 евро подходящему вузу.</li>
+<li>безвозвратное пожертвование не менее 1 000 000 евро в подходящий фонд.</li>
 </ul>
 <div class="br-vnzh-note"><strong>Покупка квартиры не равна инвестиционному ВНЖ.</strong> Обычная недвижимость может подтверждать наличие жилья, но не является самостоятельным основанием.</div>
 <p>Разрешение guest investor может быть выдано максимум на десять лет и продлено ещё максимум на десять лет. Оно позволяет работать и вести предпринимательскую деятельность; члены семьи могут обращаться за воссоединением.</p>
@@ -280,7 +280,7 @@
 <section id="br-vnzh-contact" class="br-vnzh-contact">
 <h2>Если нужна частная консультация</h2>
 <p>Если после самостоятельного изучения требований остаются вопросы, Legal Point может провести частную консультацию и помочь сопоставить факты конкретной ситуации с действующими основаниями.</p>
-<p><strong>Legal Point не является государственным органом, не выдаёт разрешения на проживание и не может гарантировать решение OIF.</strong> Обращение в частную компанию не является обязательным: заявление можно подготовить и подать самостоятельно.</p>
+<p>Legal Point не является государственным органом, который выдаёт разрешения на проживание. Обращение в частную компанию не является обязательным: заявление можно подготовить и подать самостоятельно.</p>
 <div class="br-vnzh-contact__actions"><a class="br-vnzh-button" href="https://legalpoint.hu/blog/vid-na-zhitelstvo/kak-poluchit-vnzh-v-vengrii-v-2026-godu/" target="_blank" rel="noopener">Подробнее о видах ВНЖ</a></div>
 <div class="br-vnzh-contact__grid">
 <div><strong>Телефон и WhatsApp</strong><a href="tel:+36702812828">+36 70 281 28 28</a></div>
